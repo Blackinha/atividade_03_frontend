@@ -1,0 +1,27 @@
+.imagem {
+    height: 120px;
+}
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h1 {
+    text-align: center;
+    padding: 80px;
+    color: rgb(54,155,54);
+} 
+.sorteio {
+    text-align: center;
+    border: 1px solid cyan;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: rgb(169, 92, 221);
+    margin: 10px;
+}
+.numeros 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
